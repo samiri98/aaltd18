@@ -11,7 +11,7 @@ from sklearn.metrics import recall_score
 from sklearn.metrics import adjusted_rand_score
 from sklearn.preprocessing import LabelEncoder
 
-from scipy.interpolate import spline
+# from scipy.interpolate import spline
 
 import operator
 from scipy.stats import wilcoxon

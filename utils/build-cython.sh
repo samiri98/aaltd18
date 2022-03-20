@@ -5,6 +5,6 @@ rm dtw.c
 rm *.so 
 rm -r build
 rm -r __pycache__
-python3 setup.py build_ext --inplace
+python setup.py build_ext --inplace
 touch __init__.py 
 chmod 777 __init__.py 
